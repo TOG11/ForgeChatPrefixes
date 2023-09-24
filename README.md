@@ -1,5 +1,10 @@
 # ForgeChatPrefixes 1.20.1
 
+Were you look for hours like i was? for a 1.20.1 Forge chat prefix mod? well fear not!
+<br>
+I got so fuckin tired of it i just decided id learn how to make a mod. And here is the result of that.<br>
+(im a C# & JS Dev so Java's not too hard, very shitty documentation on the Forge API, especially newer versions)
+
 ### Default ( \<Dev\> To (Dev) )
 ![image](https://github.com/TOG11/ForgeChatPrefixes/assets/71170613/c9157d39-0019-457b-a0c2-c1f4169c1fd5)
 <br>
@@ -8,6 +13,7 @@
 <br>
 ### Config
 ![image](https://github.com/TOG11/ForgeChatPrefixes/assets/71170613/296ef23b-f675-448b-b12e-a1238d0f6f6b)
+Located in Server/WorldName/serverconfig/chatprefixes.toml
 
 
 # Created For AshDubh's SMPMAS.
