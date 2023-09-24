@@ -4,6 +4,10 @@ Were you look for hours like i was? for a 1.20.1 Forge chat prefix mod? well fea
 <br>
 I got so fuckin tired of it i just decided id learn how to make a mod. And here is the result of that.<br>
 (im a C# & JS Dev so Java's not too hard, very shitty documentation on the Forge API, especially newer versions)
+<br><br>
+
+## This is a SERVER-SIDE mod.
+(Only the server needs to have this installed)
 
 ### Default ( \<Dev\> To (Dev) )
 ![image](https://github.com/TOG11/ForgeChatPrefixes/assets/71170613/c9157d39-0019-457b-a0c2-c1f4169c1fd5)
